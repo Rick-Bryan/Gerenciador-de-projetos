@@ -4,10 +4,14 @@ Projeto aonde o intuito é gerenciar os projetos de uma empresa facilitando a or
 Neste projeto foi utilizado :
 - HTML,CSS, JAVASCRIPT
 - REACTJS
+
   -react-router
+  
   -react-router-dom
 - NodeJS
+
   -Express
+  
   -Nodemon
 - Mysql
 
