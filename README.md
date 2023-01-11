@@ -1,6 +1,6 @@
 # Gerenciador de projetos
 
-Neste projeto foi uitlizado :
+Neste projeto foi utilizado :
 - HTML,CSS, JAVASCRIPT
 - REACTJS
 - NodeJS
