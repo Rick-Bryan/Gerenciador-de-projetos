@@ -1,0 +1,36 @@
+.btn{
+    width: 250px;
+    background-color: #222;
+    color: #FFF;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+    margin: 10px auto;
+
+}
+.btn:hover{
+    color: #ffbb33;
+}
+.btn_project{  
+    max-width: 150px;
+    height: 40px;
+    background-color: #ff8800;
+    color: #FFF;
+    padding: 0.7em 1.2em;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+    border: none;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    
+}
+a{
+    text-decoration: none;  
+}
+.btn_project:hover{
+    background-color: #352609;
+}

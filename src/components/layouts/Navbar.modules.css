@@ -1,0 +1,45 @@
+.navbar{
+    background-color: #222;
+    justify-content: space-around;
+    display: flex;
+
+    flex-wrap: wrap;
+}
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.item{
+    margin-right: 2em;
+}
+.item a{
+    color: #FFF;
+    text-decoration: none;
+}
+.item a:hover{
+    color: #FFBB33;
+}
+@media screen and (max-width:375px){
+    .item{
+        margin-right: 1em;
+    }
+}
+.mobile_menu ,.menu_button img{
+    opacity: 0;
+    visibility: hidden;
+    width: 100px;
+    height: 100px;
+}
+@media screen and (max-width:999px) {
+    .mobile_menu ,.menu_button {
+        opacity: 1;
+        visibility: visible;
+    }
+    .list{
+        opacity: 0;
+    }
+}

@@ -1,0 +1,18 @@
+.footer{
+    background-color: #222;
+    color: #FFF;
+    padding: 3em;
+    text-align: center;
+    margin: auto;
+}
+
+.copy_right{
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+}
+.copy_right span{
+    font-weight: bold;
+    color: #ffbb33;
+}
+

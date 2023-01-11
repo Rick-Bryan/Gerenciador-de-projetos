@@ -1,0 +1,10 @@
+.form{
+    width: 100%;
+    margin: 2em 0;
+    display: flex;
+    flex-direction: column;
+    
+}
+.formControl{
+    background-color: rgb(190, 190, 190);
+}
