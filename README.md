@@ -1,4 +1,5 @@
 # Gerenciador de projetos
+Projeto aonde o intuito é gerenciar os projetos de uma empresa facilitando a organização
 
 Neste projeto foi utilizado :
 - HTML,CSS, JAVASCRIPT
